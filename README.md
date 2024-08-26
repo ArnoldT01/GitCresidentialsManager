@@ -16,3 +16,6 @@
   - Run it using the following command :
   - `./update_git_details.sh "Your New Username" "your.email@example.com"`
   - Replace the relevant fields with your details
+
+### Incoming Changes
+- Gui for it ( just for fun )
