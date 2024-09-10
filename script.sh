@@ -14,3 +14,5 @@ git config --global user.email "$EMAIL"
 echo "Git configuration updated:"
 echo "Username: $(git config --global user.name)"
 echo "Email: $(git config --global user.email)"
+
+sleep 3
